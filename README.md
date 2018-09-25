@@ -5,6 +5,14 @@ This is Terraform Module to deploy
 
 * Kubernetes
 
+## Can I see it in action?
+
+<p align="center">
+  <a href="https://asciinema.org/a/xSKF27hp70lHFBrghlo9qwEvd">
+  <img src="https://asciinema.org/a/xSKF27hp70lHFBrghlo9qwEvd.png" width="885"></image>
+  </a>
+</p>
+
 ## Usage
 Get credentials for kubectl or you can use output secrets to manually configure .kube/config
 ```
